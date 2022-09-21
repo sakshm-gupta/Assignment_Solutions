@@ -1,0 +1,15 @@
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.csproj.AssemblyReference.cache
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.AssemblyInfo.cs
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Assigments Solutions\String Solution\bin\Debug\net6.0\StringSolution.exe
+D:\CAPGEMINI\Assigments Solutions\String Solution\bin\Debug\net6.0\StringSolution.deps.json
+D:\CAPGEMINI\Assigments Solutions\String Solution\bin\Debug\net6.0\StringSolution.runtimeconfig.json
+D:\CAPGEMINI\Assigments Solutions\String Solution\bin\Debug\net6.0\StringSolution.dll
+D:\CAPGEMINI\Assigments Solutions\String Solution\bin\Debug\net6.0\StringSolution.pdb
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.dll
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\refint\StringSolution.dll
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.pdb
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\StringSolution.genruntimeconfig.cache
+D:\CAPGEMINI\Assigments Solutions\String Solution\obj\Debug\net6.0\ref\StringSolution.dll

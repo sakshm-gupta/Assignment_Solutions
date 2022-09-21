@@ -1,0 +1,24 @@
+string S = "The quick brown fox jumps over the lazy dog".
+
+
+
+
+
+
+
+I WANDER'D lonely as a cloud
+That floats on high o'er vales and hills, 
+When all at once I saw a crowd,
+A host, of golden daffodils;Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.
+Represent the line as it is without any escape characters to improve readability.
+
+
+
+
+
+
+
+
+
+Write a C# code that has a constant string that represents poem lines 

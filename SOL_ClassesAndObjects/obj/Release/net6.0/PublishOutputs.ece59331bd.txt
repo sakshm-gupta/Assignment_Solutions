@@ -1,0 +1,5 @@
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\publish\ClassesAndObjects.exe
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\publish\ClassesAndObjects.dll
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\publish\ClassesAndObjects.deps.json
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\publish\ClassesAndObjects.runtimeconfig.json
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\publish\ClassesAndObjects.pdb

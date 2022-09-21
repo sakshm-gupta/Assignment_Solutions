@@ -1,0 +1,15 @@
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\ClassesAndObjects.exe
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\ClassesAndObjects.deps.json
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\ClassesAndObjects.runtimeconfig.json
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\ClassesAndObjects.dll
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\bin\Release\net6.0\ClassesAndObjects.pdb
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.csproj.AssemblyReference.cache
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.AssemblyInfo.cs
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.dll
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\refint\ClassesAndObjects.dll
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.pdb
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ClassesAndObjects.genruntimeconfig.cache
+D:\CAPGEMINI\Assigments Solutions\ClassesAndObjects\obj\Release\net6.0\ref\ClassesAndObjects.dll

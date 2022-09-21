@@ -1,0 +1,15 @@
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\bin\Debug\net6.0\SOL_InterfaceAssignments.exe
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\bin\Debug\net6.0\SOL_InterfaceAssignments.deps.json
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\bin\Debug\net6.0\SOL_InterfaceAssignments.runtimeconfig.json
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\bin\Debug\net6.0\SOL_InterfaceAssignments.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\bin\Debug\net6.0\SOL_InterfaceAssignments.pdb
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.csproj.AssemblyReference.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.AssemblyInfo.cs
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\refint\SOL_InterfaceAssignments.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.pdb
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\SOL_InterfaceAssignments.genruntimeconfig.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InterfaceAssignments\obj\Debug\net6.0\ref\SOL_InterfaceAssignments.dll

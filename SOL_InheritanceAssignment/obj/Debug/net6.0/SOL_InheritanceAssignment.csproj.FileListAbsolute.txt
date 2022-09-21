@@ -1,0 +1,15 @@
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.csproj.AssemblyReference.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.AssemblyInfo.cs
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\bin\Debug\net6.0\SOL_InheritanceAssignment.exe
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\bin\Debug\net6.0\SOL_InheritanceAssignment.deps.json
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\bin\Debug\net6.0\SOL_InheritanceAssignment.runtimeconfig.json
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\bin\Debug\net6.0\SOL_InheritanceAssignment.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\bin\Debug\net6.0\SOL_InheritanceAssignment.pdb
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\refint\SOL_InheritanceAssignment.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.pdb
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\SOL_InheritanceAssignment.genruntimeconfig.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_InheritanceAssignment\obj\Debug\net6.0\ref\SOL_InheritanceAssignment.dll

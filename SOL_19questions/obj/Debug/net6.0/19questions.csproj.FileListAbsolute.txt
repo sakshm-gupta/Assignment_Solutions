@@ -1,0 +1,15 @@
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.csproj.AssemblyReference.cache
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.AssemblyInfoInputs.cache
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.AssemblyInfo.cs
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\19questions\bin\Debug\net6.0\19questions.exe
+D:\CAPGEMINI\19questions\bin\Debug\net6.0\19questions.deps.json
+D:\CAPGEMINI\19questions\bin\Debug\net6.0\19questions.runtimeconfig.json
+D:\CAPGEMINI\19questions\bin\Debug\net6.0\19questions.dll
+D:\CAPGEMINI\19questions\bin\Debug\net6.0\19questions.pdb
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.dll
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\refint\19questions.dll
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.pdb
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\19questions.genruntimeconfig.cache
+D:\CAPGEMINI\19questions\obj\Debug\net6.0\ref\19questions.dll

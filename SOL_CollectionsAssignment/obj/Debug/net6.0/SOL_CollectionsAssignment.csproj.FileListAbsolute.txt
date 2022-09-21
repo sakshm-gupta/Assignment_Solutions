@@ -1,0 +1,15 @@
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\bin\Debug\net6.0\SOL_CollectionsAssignment.exe
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\bin\Debug\net6.0\SOL_CollectionsAssignment.deps.json
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\bin\Debug\net6.0\SOL_CollectionsAssignment.runtimeconfig.json
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\bin\Debug\net6.0\SOL_CollectionsAssignment.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\bin\Debug\net6.0\SOL_CollectionsAssignment.pdb
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.csproj.AssemblyReference.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.AssemblyInfoInputs.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.AssemblyInfo.cs
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\refint\SOL_CollectionsAssignment.dll
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.pdb
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\SOL_CollectionsAssignment.genruntimeconfig.cache
+D:\CAPGEMINI\Assigments Solutions\SOL_CollectionsAssignment\obj\Debug\net6.0\ref\SOL_CollectionsAssignment.dll
